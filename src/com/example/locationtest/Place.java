@@ -5,6 +5,7 @@ public class Place {
 	public double lattitude;
 	public double longitude;
 	public String name;
+	public int frequency;
 //	public void setName(double theLattitude)
 //	{
 //		lattitude = theLattitude;	
